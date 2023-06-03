@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanda Forrester.</h1>
-<h3 align="center">A hardworking, enthusiastic full stack developer.</h3>
+<h3 align="center">A hardworking, enthusiastic back-end developer.</h3>
 
 - 🔭 I’m currently working on **Gratitude App**
 
