@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amanda Forrester.</h1>
 <h3 align="center">A disciplined, enthusiastic full-stack developer.</h3>
 
-- 🔭 I’m currently working on **Gratitude App**
+- 🔭 I’m currently working on **Email automation app**
 
-- 🌱 I’m currently learning **React, Docker, Python, Typescript**
+- 🌱 I’m currently learning **React, PHP**
 
-- 👯 I’m looking to collaborate on **A Python/Docker/React app**
+- 👯 I’m looking to collaborate on **Community-oriented or non-profit applications**
 
 - 💬 Ask me about **javascript, Node.js, Express.js, Oauth2, PostgreSQL, HTML, CSS**
 
