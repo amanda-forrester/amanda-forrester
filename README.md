@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amanda Forrester.</h1>
 <h3 align="center">A disciplined, enthusiastic full-stack developer.</h3>
 
-- 🔭 I’m currently working on **Email automation app**
+- 🔭 I’m currently working on **Runn time off email automation app**
 
-- 🌱 I’m currently learning **React, PHP**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Community-oriented or non-profit applications**
 
