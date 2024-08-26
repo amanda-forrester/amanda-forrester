@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Community-oriented or non-profit applications**
 
-- 💬 Ask me about **javascript, Node.js, Express.js, Oauth2, PostgreSQL, HTML, CSS**
+- 💬 Ask me about **JavaScript, PHP, PostgreSQL, Node.js, Express.js, Oauth2, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **amanda.forrester1@gmail.com**
 
